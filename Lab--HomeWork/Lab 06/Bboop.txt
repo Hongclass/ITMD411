@@ -1,0 +1,9 @@
+********** Payroll Report *****************************
+
+
+Employee Name:  Betty Boop
+Hours:          66
+Wages:         $22.00
+Gross Pay:     $1738.00
+Overtime Pay:  $858.00  (include in gross pay)
+*******************************************************

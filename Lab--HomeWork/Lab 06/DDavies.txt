@@ -1,0 +1,9 @@
+********** Payroll Report *****************************
+
+
+Employee Name:  David Davies
+Hours:          30
+Wages:         $8.75
+Gross Pay:     $262.50
+Overtime Pay:  $0.00  (include in gross pay)
+*******************************************************

@@ -1,0 +1,29 @@
+ID:                            1122
+
+Created:                   04/03/14
+
+Owner:                 Sam Williams
+
+Annual Rate:                   4.50%
+
+Balance:                  20,000.00
+
+
+Withdraw:                  2,500.00
+
+Current Balance:          17,500.00
+
+ID:                            1122
+
+Created:                   04/03/14
+
+Owner:                 Sam Williams
+
+Annual Rate:                   4.50%
+
+Balance:                  20,000.00
+
+
+Deposit:                   3,000.00
+
+Current Balance:          20,500.00
